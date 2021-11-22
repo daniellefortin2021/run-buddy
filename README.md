@@ -11,4 +11,6 @@ A website that offers fitness training services.
 https://daniellefortin2021.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by Danielle FOrtin
+Made with ❤️ by Danielle Fortin
+
+### ©️2019 Run Buddy, Inc 
