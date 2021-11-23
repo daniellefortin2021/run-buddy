@@ -83,6 +83,9 @@ section {
     background: url("../images/hero-bg.jpeg");
     background-size: cover;
     background-position: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 
 .hero-form{
@@ -90,6 +93,8 @@ section {
     background-color: #fce138;
     padding: 20px;
     border: solid 3px #024e76;
+    width: 40%;
+    margin: 3.5%;
 }
 
 .hero-cta{
@@ -108,8 +113,6 @@ section {
 }
 
 .hero-form p {
-    margin: 5px 0 15px 0;
-    width: 40%;
     margin: 3.5%;
 }
 
